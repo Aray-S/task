@@ -6,3 +6,5 @@
 5) npm start
 6) Проект запустится на локальном порте 3000
 
+Тестовые отзывы можете посмотреть в Fake Singer 3.
+Authentication реализован с помощью Firebase (Google Sign In)
