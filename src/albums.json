@@ -1,0 +1,493 @@
+[
+  {
+    "id": "1",
+    "singer": "Fake Singer 1",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album A": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album B": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album C": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album D": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "2",
+    "singer": "Fake Singer 2",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album E": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album F": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album G": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album H": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "3",
+    "singer": "Fake Singer 3",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album I": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album J": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album K": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album L": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "4",
+    "singer": "Fake Singer 4",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album M": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album N": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album O": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album P": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "5",
+    "singer": "Fake Singer 5",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album Q": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album R": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album S": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album T": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "6",
+    "singer": "Fake Singer 6",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album U": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album V": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album W": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album X": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "7",
+    "singer": "Fake Singer 7",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album Y": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album Z": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album AA": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album BB": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "8",
+    "singer": "Fake Singer 8",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album CC": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album DD": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album EE": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album FF": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "9",
+    "singer": "Fake Singer 9",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album GG": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album HH": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album II": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album JJ": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "10",
+    "singer": "Fake Singer 10",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album KK": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album LL": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album MM": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album NN": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "11",
+    "singer": "Fake Singer 11",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album OO": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album PP": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album QQ": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album RR": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "12",
+    "singer": "Fake Singer 12",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album SS": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album TT": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album UU": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album VV": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "13",
+    "singer": "Fake Singer 13",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album WW": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album XX": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album YY": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album ZZ": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "14",
+    "singer": "Fake Singer 14",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album AAA": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album BBB": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album CCC": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album DDD": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "15",
+    "singer": "Fake Singer 15",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album EEE": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album FFF": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album GGG": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album HHH": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "16",
+    "singer": "Fake Singer 16",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album III": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album JJJ": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album KKK": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album LLL": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "17",
+    "singer": "Fake Singer 17",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album MMM": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album NNN": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album OOO": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album PPP": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "18",
+    "singer": "Fake Singer 18",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album QQQ": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album RRR": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album SSS": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album TTT": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "19",
+    "singer": "Fake Singer 19",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album UUU": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album VVV": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album WWW": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album XXX": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "20",
+    "singer": "Fake Singer 20",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album YYY": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album ZZZ": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album AAAA": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album BBBB": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "21",
+    "singer": "Fake Singer 21",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album CCCC": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album DDDD": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album EEEE": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album FFFF": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "22",
+    "singer": "Fake Singer 22",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album GGGG": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album HHHH": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album IIII": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album JJJJ": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "23",
+    "singer": "Fake Singer 23",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album KKKK": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album LLLL": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album MMMM": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album NNNN": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "24",
+    "singer": "Fake Singer 24",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album OOOO": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album PPPP": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album QQQQ": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album RRRR": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "25",
+    "singer": "Fake Singer 25",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album SSSS": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album TTTT": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album UUUU": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  },
+  {
+    "id": "26",
+    "singer": "Fake Singer 26",
+    "singerImage": "https://fakeimg.pl/300/",
+    "albums": {
+      "Album VVVV": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album WWWW": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album XXXX": {
+        "albumImage": "https://fakeimg.pl/300/"
+      },
+      "Album YYYY": {
+        "albumImage": "https://fakeimg.pl/300/"
+      }
+    }
+  }
+]
